@@ -25,9 +25,9 @@ Easy to use
 ==================================================
 HTML
 
-  <input type="button" value="Alert Box" id="jqmAlert" />
-  <input type="button" value="Confirm Box" id="jqmConfirm" />
-  <input type="button" value="Prompt Box" id="jqmPrompt" />
+  &lt;input type="button" value="Alert Box" id="jqmAlert" /&gt;
+  &lt;input type="button" value="Confirm Box" id="jqmConfirm" /&gt;
+  &lt;input type="button" value="Prompt Box" id="jqmPrompt" /&gt;
   
 ==================================================
 Jquery
